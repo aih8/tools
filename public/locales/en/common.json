@@ -1,0 +1,69 @@
+{
+  "site": {
+    "title": "Webmaster Toolbox",
+    "description": "Free Online Webmaster Tools",
+    "home": "Home",
+    "tools": "Tools",
+    "about": "About",
+    "search": "Search tools...",
+    "allTools": "All Tools",
+    "featuredTools": "Featured Tools",
+    "recentlyUsed": "Recently Used",
+    "favorites": "Favorites",
+    "categories": "Categories",
+    "quickLinks": "Quick Links",
+    "toolCategories": "Tool Categories",
+    "theme": {
+      "light": "Light Mode",
+      "dark": "Dark Mode",
+      "toggle": "Toggle Theme"
+    },
+    "language": "Language"
+  },
+  "common": {
+    "input": "Input",
+    "output": "Output",
+    "copy": "Copy",
+    "copied": "Copied",
+    "download": "Download",
+    "clear": "Clear",
+    "reset": "Reset",
+    "encode": "Encode",
+    "decode": "Decode",
+    "format": "Format",
+    "compress": "Compress",
+    "validate": "Validate",
+    "generate": "Generate",
+    "convert": "Convert",
+    "upload": "Upload",
+    "result": "Result",
+    "error": "Error",
+    "success": "Success",
+    "loading": "Loading...",
+    "noResult": "No results"
+  },
+  "categories": {
+    "seo": "SEO Tools",
+    "encode": "Encode/Decode",
+    "format": "Formatters",
+    "image": "Image Tools",
+    "text": "Text Tools",
+    "time": "Time/Date",
+    "color": "Color Tools",
+    "dev": "Dev Tools",
+    "network": "Network Tools"
+  },
+  "tools": {
+    "meta-generator": "Meta Tag Generator",
+    "json-formatter": "JSON Formatter",
+    "base64-tool": "Base64 Encode/Decode",
+    "url-tool": "URL Encode/Decode",
+    "md5-tool": "MD5 Hash",
+    "timestamp-converter": "Timestamp Converter",
+    "qrcode-generator": "QR Code Generator",
+    "color-converter": "Color Converter",
+    "uuid-generator": "UUID Generator",
+    "password-generator": "Password Generator"
+  }
+}
+
